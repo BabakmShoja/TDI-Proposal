@@ -14,3 +14,4 @@ extract deep features which take the place of item-tag matrix and constructs ite
 recommendation system. I believe the use of deep neural networks helps in overcoming the problem of sparsity, ambiguity, 
 redundancy along with the ability to provide new exciting items to customers and ultimately, increase the sale and profit for 
 the e-commerce company.
+
