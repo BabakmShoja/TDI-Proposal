@@ -1,0 +1,16 @@
+Abstract
+Due to the recent growth of available online data on customers and clients as well as social tagging becoming popular, 
+tag-aware recommender systems are attracting more attention increasingly. The advancements on the incorporation of customer 
+review for developing recommender systems are scarce and those few available studies have only used meta-data available out 
+of the reviews without any analysis of the reviews itself. Moreover, deep neural networks as a methodology for recommender 
+\systems is recently being considered and recommendation systems are being developed using AI. As deep learning has 
+demonstrated its value in various areas of data intelligence. In this project, using real-case large-size datasets from 
+Amazon, a dictionary of related tags is extracted and developed for each category of the products. Then, I modify this 
+dictionary based on the reviews available in the dataset and then will incorporate them as a new feature to develop the 
+recommender system. The idea is that when a user is commenting about a feature, it means that feature is important to the 
+customer and should be considered as a more important feature. In addition, a deep neural network for this recommender system 
+will be developed to provide effective and efficient recommendations. This deep neural network will work as an autoencoder to 
+extract deep features which take the place of item-tag matrix and constructs item-deep feature matrix to be used in the 
+recommendation system. I believe the use of deep neural networks helps in overcoming the problem of sparsity, ambiguity, 
+redundancy along with the ability to provide new exciting items to customers and ultimately, increase the sale and profit for 
+the e-commerce company.
