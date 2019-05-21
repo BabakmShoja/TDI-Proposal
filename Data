@@ -1,0 +1,21 @@
+The data is from Amazon.com reviews public dataset. It has 24 categories of products. Features are as follows.
+
+REVIEWS: 84.68 Million reviews in 18GB JSON file including:
+  * Reviwer ID
+  * ASIN
+  * Helpfulness rating
+  * Review Text
+  * Overall rating
+  * Summary of the review
+  * Review time (LINUX/Raw)
+ 
+ PRODUCTS: 1.4 Million products in 3.1 GB JSON file including:
+  * ASIN
+  * Title of the product
+  * Price
+  * Related Products
+  * Sales Rank
+  * Brand
+  * Categories
+ 
+DICTIONARY: Web Scraped!
